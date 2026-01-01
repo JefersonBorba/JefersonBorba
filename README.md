@@ -5,7 +5,7 @@
 ---
 
 ### 01 / Overview
-Fullstack Developer with **6+ years of professional experience** bridging South American creativity with Southeast Asian technical innovation. My work focuses on the intersection of **Neuro-Symbolic AI**, high-performance system architecture, and gamified educational ecosystems.
+Senior Fullstack Engineer with **6+ years of professional experience** bridging South American creativity with Southeast Asian technical innovation. My work focuses on the intersection of **Neuro-Symbolic AI**, high-performance system architecture, and gamified educational ecosystems.
 
 Currently, I am serving as a **Lead R&D | Senior Fullstack Engineer at VendueTech**, where I architect real-time auction platforms and research neuro-symbolic models for cross-border regulations.
 
@@ -29,6 +29,8 @@ I am currently preparing for advanced academic research (PhD track) focused on *
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/pytorch-3670A0?style=for-the-badge&logo=pytorch&logoColor=FF5533)
+![Elixir](https://img.shields.io/badge/elixir-CBC3E3?style=for-the-badge&logo=elixir&logoColor=BF40BF)
 
 ---
 
